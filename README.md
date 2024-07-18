@@ -1,4 +1,4 @@
- "Aca iria una foto mia" # Hello, my name is Juan Pablo Britos 👋
+ "Aca iria una foto mia" # Hello, my name is Juanpa 👋
 ### Systems engineering student | Programmer | Multimedia editor
 
 Aca hay que poner un banner
