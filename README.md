@@ -1,7 +1,7 @@
- "Aca iria una foto mia" # Hello, my name is Juanpa 👋
+# Hello, my name is Juanpa 👋
 ### Systems engineering student | Programmer | Multimedia editor
 
-Aca hay que poner un banner
+![Cabecera4](https://github.com/user-attachments/assets/70083080-1718-42ab-be84-83414850c28d)
 
 I am a systems engineering student at UTN.
 
