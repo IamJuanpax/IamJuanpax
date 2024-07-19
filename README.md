@@ -8,7 +8,9 @@ I am a systems engineering student at UTN.
 Looking to take my first steps in the technology industry by applying my knowledge to provide solutions
 
 ## meet me at:
-[![MyPublicInbox](https://img.shields.io/badge/follow%20me-orange?style=social&logo=Instagram&logoColor=orange&logoSize=auto&label=Instagram&color=fedcba&link=https%3A%2F%2Fwww.instagram.com%2Fiamjuanpax%2F)](https://www.instagram.com/iamjuanpax/)
+[![Instagram](https://img.shields.io/badge/Instagram-IamJuanpax-00FFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/iamjuanpax/)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-IamJuanpax-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-pablo-britos/)
 
 # Some of my projects:
 
