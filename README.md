@@ -6,10 +6,10 @@
 ## About me:
 
 Systems engineering student at UTN
-Python developer
-Multimedia editor
 
-Looking to take my first steps in the technology industry by applying my knowledge to provide solutions
+Python developer
+
+Multimedia editor
 
 ## meet me at:
 [![Instagram](https://img.shields.io/badge/Instagram-IamJuanpax-00FFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/iamjuanpax/)
