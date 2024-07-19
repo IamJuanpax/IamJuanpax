@@ -18,6 +18,6 @@ Multimedia editor
 
 # Some of my projects:
 
-## Contact to me:
+## Contact me:
 
 [![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](email:jubritos20@gmail.com)
