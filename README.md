@@ -9,7 +9,7 @@ Looking to take my first steps in the technology industry by applying my knowled
 
 ## meet me at:
 [![Instagram]([https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1](https://img.shields.io/badge/follow%20me-orange?style=social&logo=Instagram&logoColor=orange&logoSize=auto&label=Instagram&color=fedcba&link=https%3A%2F%2Fwww.instagram.com%2Fiamjuanpax%2F
-))
+)
 
 # Some of my projects:
 
