@@ -3,7 +3,11 @@
 
 ![Cabecera4](https://github.com/user-attachments/assets/70083080-1718-42ab-be84-83414850c28d)
 
-I am a systems engineering student at UTN.
+## About me:
+
+Systems engineering student at UTN
+Python developer
+Multimedia editor
 
 Looking to take my first steps in the technology industry by applying my knowledge to provide solutions
 
