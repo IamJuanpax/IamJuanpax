@@ -8,11 +8,11 @@ I am a systems engineering student at UTN.
 Looking to take my first steps in the technology industry by applying my knowledge to provide solutions
 
 ## meet me at:
-
+[![MyPublicInbox](https://img.shields.io/badge/follow%20me-orange?style=social&logo=Instagram&logoColor=orange&logoSize=auto&label=Instagram&color=fedcba&link=https%3A%2F%2Fwww.instagram.com%2Fiamjuanpax%2F)](https://www.instagram.com/iamjuanpax/)
 
 # Some of my projects:
 
-## Contacto y apoyo:
+## Contact to me:
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
