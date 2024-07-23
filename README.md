@@ -5,11 +5,11 @@
 
 ## About me:
 
-Systems engineering student at UTN
+📚 Systems Engineering student at UTN
 
-Python developer
+🐍 Python developer
 
-Multimedia editor
+🎬 Multimedia editor
 
 ## meet me at:
 [![Instagram](https://img.shields.io/badge/Instagram-IamJuanpax-00FFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/iamjuanpax/)
