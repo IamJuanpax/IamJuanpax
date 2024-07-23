@@ -20,4 +20,4 @@ Multimedia editor
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](email:jubritos20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=jubritos20@gmail.com&su=Asunto%20del%20correo&body=Cuerpo%20del%20correo)
