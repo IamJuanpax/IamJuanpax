@@ -1,7 +1,8 @@
 # Hello, my name is Juanpa 👋
 ### Systems engineering student | Programmer | Multimedia editor
 
-![Cabecera4](https://github.com/user-attachments/assets/70083080-1718-42ab-be84-83414850c28d)
+![Banner](![opcion2-banner](https://github.com/user-attachments/assets/5d1119d4-1b9b-46a2-b717-3a405318471b)
+
 
 ## About me:
 
