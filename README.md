@@ -20,6 +20,8 @@
 # Some of my projects:
 https://github.com/IamJuanpax/Traductor-de-voz
 
+https://github.com/IamJuanpax/API_de_tareas
+
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=jubritos20@gmail.com)
