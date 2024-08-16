@@ -18,6 +18,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-IamJuanpax-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-pablo-britos/)
 
 # Some of my projects:
+https://github.com/IamJuanpax/Traductor-de-voz
 
 ## Contact me:
 
