@@ -18,9 +18,14 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-IamJuanpax-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-pablo-britos/)
 
 # Some of my projects:
-https://github.com/IamJuanpax/Traductor-de-voz
 
-https://github.com/IamJuanpax/API_de_tareas
+<a href="https://github.com/IamJuanpax/Traductor-de-voz">
+    <img src="https://github.com/user-attachments/assets/d2e1b463-9a7d-48cc-8c94-be74084fea36" alt="traductor_de_voz" width="200" />
+</a>
+
+<a href="https://github.com/IamJuanpax/API_de_tareas">
+  <img src="https://github.com/user-attachments/assets/1a9ad049-9718-44e6-b75a-de8f2bc90157" alt="programas-de-recordatorios" width="300" />
+</a>
 
 ## Contact me:
 
