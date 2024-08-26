@@ -27,6 +27,10 @@
   <img src="https://github.com/user-attachments/assets/1a9ad049-9718-44e6-b75a-de8f2bc90157" alt="programas-de-recordatorios" width="300" />
 </a>
 
+<a href="https://github.com/IamJuanpax/Web-Blog">
+  <img src="https://github.com/user-attachments/assets/5314c538-28b1-412c-a15d-f43ac4e22cdb" alt="web-blog" width="278" />
+</a>
+
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=jubritos20@gmail.com)
