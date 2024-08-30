@@ -31,6 +31,11 @@
   <img src="https://github.com/user-attachments/assets/5314c538-28b1-412c-a15d-f43ac4e22cdb" alt="web-blog" width="278" />
 </a>
 
+<a href="https://github.com/IamJuanpax/Gym-Web">
+  <img src="https://github.com/user-attachments/assets/9bd23e58-c656-492c-836c-2d038a1addbd" alt="gym-logo" width="200" />
+</a>
+
+
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/Email-Send_me_message-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=jubritos20@gmail.com)
