@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/IamJuanpax/Web-Motos">
-  <img src="https://github.com/user-attachments/assets/83e59b52-bd3c-4246-b77c-3e9876e7e58b" alt="logo de moto" width="200" />
+  <img src="https://github.com/user-attachments/assets/83e59b52-bd3c-4246-b77c-3e9876e7e58b" alt="logo de moto" width="250" />
 </a>
 
 
