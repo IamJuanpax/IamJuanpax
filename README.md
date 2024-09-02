@@ -35,6 +35,10 @@
   <img src="https://github.com/user-attachments/assets/9bd23e58-c656-492c-836c-2d038a1addbd" alt="gym-logo" width="200" />
 </a>
 
+<a href="https://github.com/IamJuanpax/Web-Motos">
+  <img src="https://github.com/user-attachments/assets/83e59b52-bd3c-4246-b77c-3e9876e7e58b" alt="logo de moto" width="200" />
+</a>
+
 
 ## Contact me:
 
