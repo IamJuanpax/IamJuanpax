@@ -20,23 +20,23 @@
 # Some of my projects:
 
 <a href="https://github.com/IamJuanpax/Traductor-de-voz">
-    <img src="https://github.com/user-attachments/assets/d2e1b463-9a7d-48cc-8c94-be74084fea36" alt="traductor_de_voz" width="200" />
+    <img src="https://github.com/user-attachments/assets/76a66f8b-ad25-4188-95fb-10dc56ae4b10" alt="traductor de voz" width="200" />
 </a>
 
 <a href="https://github.com/IamJuanpax/API_de_tareas">
-  <img src="https://github.com/user-attachments/assets/1a9ad049-9718-44e6-b75a-de8f2bc90157" alt="programas-de-recordatorios" width="300" />
+  <img src="https://github.com/user-attachments/assets/80de5b9d-4f19-4cb7-8504-9b402db964f4" alt="API de tareas" width="200" />
 </a>
 
 <a href="https://github.com/IamJuanpax/Web-Blog">
-  <img src="https://github.com/user-attachments/assets/5314c538-28b1-412c-a15d-f43ac4e22cdb" alt="web-blog" width="278" />
+  <img src="https://github.com/user-attachments/assets/02830186-cc3a-4573-ab30-7d9c58b1f574" alt="web blog" width="200" />
 </a>
 
 <a href="https://github.com/IamJuanpax/Gym-Web">
-  <img src="https://github.com/user-attachments/assets/9bd23e58-c656-492c-836c-2d038a1addbd" alt="gym-logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/98aed2b1-0739-4139-993f-4f657ed4e8c0" alt="web gym" width="200" />
 </a>
 
 <a href="https://github.com/IamJuanpax/Web-Motos">
-  <img src="https://github.com/user-attachments/assets/83e59b52-bd3c-4246-b77c-3e9876e7e58b" alt="logo de moto" width="250" />
+  <img src="https://github.com/user-attachments/assets/6aa00933-94e3-4e9f-b19c-c2b3e00f25f2" alt="web de motos" width="200" />
 </a>
 
 
