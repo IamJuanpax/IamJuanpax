@@ -1,16 +1,17 @@
-# Hello, my name is Juanpa 👋
-### Systems engineering student | Programmer | Multimedia editor
-
-![Banner](https://github.com/user-attachments/assets/5d1119d4-1b9b-46a2-b717-3a405318471b)
-
-
 ## About me:
 
-📚 Systems Engineering student at UTN
+📚 **Systems Engineering student at UTN**
 
-🐍 Python developer
+🌐 **Full Stack Developer**
 
-🎬 Multimedia editor
+🎬 **Multimedia editor**
+
+## Languages ​​I use:
+🔹 **HTML** | 🎨 **CSS** | ⚡ **JavaScript** | 🐘 **PHP** | 🐍 **Python** | ☕ **Java** | 📜 **TypeScript**
+
+## Frameworks & Libraries I Use:
+🛡️ **Laravel** | 🎨 **Bootstrap** | ⚡ **FastAPI**
+
 
 ## meet me at:
 [![Instagram](https://img.shields.io/badge/Instagram-IamJuanpax-00FFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/iamjuanpax/)
@@ -18,14 +19,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-IamJuanpax-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-pablo-britos/)
 
 # Some of my projects:
-
-<a href="https://github.com/IamJuanpax/Traductor-de-voz">
-    <img src="https://github.com/user-attachments/assets/76a66f8b-ad25-4188-95fb-10dc56ae4b10" alt="traductor de voz" width="200" />
-</a>
-
-<a href="https://github.com/IamJuanpax/API_de_tareas">
-  <img src="https://github.com/user-attachments/assets/80de5b9d-4f19-4cb7-8504-9b402db964f4" alt="API de tareas" width="200" />
-</a>
 
 <a href="https://github.com/IamJuanpax/Web-Blog">
   <img src="https://github.com/user-attachments/assets/02830186-cc3a-4573-ab30-7d9c58b1f574" alt="web blog" width="200" />
