@@ -36,8 +36,8 @@
   <img src="https://github.com/user-attachments/assets/6aa00933-94e3-4e9f-b19c-c2b3e00f25f2" alt="web de motos" width="200" />
 </a>
 
-<a href="https://github.com/IamJuanpax/Web-Motos">
-  <img src="https://github.com/user-attachments/assets/6aa00933-94e3-4e9f-b19c-c2b3e00f25f2" alt="E-Commerce Campify" width="200" />
+<a href="https://github.com/IamJuanpax/E-commerce_Campify">
+  <img src="https://github.com/user-attachments/assets/691507c5-8b1e-4167-a18d-e55560aa6a6f" alt="E-Commerce Campify" width="200" />
 </a>
 
 
