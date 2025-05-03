@@ -40,6 +40,9 @@
   <img src="https://github.com/user-attachments/assets/6aa00933-94e3-4e9f-b19c-c2b3e00f25f2" alt="web de motos" width="200" />
 </a>
 
+<a href="https://github.com/IamJuanpax/Lista-de-tareas-con-Angular">
+  <img src="https://github.com/user-attachments/assets/3da2ff42-12a5-4278-95b2-7b8d701fcc9b" alt="Logo app" width="200" />
+</a>
 
 ## Contact me:
 
