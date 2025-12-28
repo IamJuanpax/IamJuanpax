@@ -24,6 +24,10 @@
 
 # Some of my projects:
 
+<a href="https://github.com/IamJuanpax/TP_Sistemas-Operativos_UTN_2025">
+  <img src="https://github.com/user-attachments/assets/5963989f-4888-4d02-ba74-f6005db9edfb" width="200" height="200" alt="Gemini_Generated_Image_kiea51kiea51kiea" />
+</a>
+
 <a href="https://github.com/IamJuanpax/E-commerce_Campify">
   <img src="https://github.com/user-attachments/assets/691507c5-8b1e-4167-a18d-e55560aa6a6f" alt="E-Commerce Campify" width="200" />
 </a>
