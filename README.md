@@ -24,8 +24,12 @@
 
 # Some of my projects:
 
+<a href="https://github.com/IamJuanpax/morandoweb">
+  <img src="https://github.com/user-attachments/assets/62335197-3ee1-4e7b-94a9-ec0f94f1aae3" width="200" height="200" alt="Imagen_Morando" />
+</a>
+
 <a href="https://github.com/IamJuanpax/TP_Sistemas-Operativos_UTN_2025">
-  <img src="https://github.com/user-attachments/assets/5963989f-4888-4d02-ba74-f6005db9edfb" width="200" height="200" alt="Gemini_Generated_Image_kiea51kiea51kiea" />
+  <img src="https://github.com/user-attachments/assets/5963989f-4888-4d02-ba74-f6005db9edfb" width="200" height="200" alt="Imagen_SO" />
 </a>
 
 <a href="https://github.com/IamJuanpax/E-commerce_Campify">
