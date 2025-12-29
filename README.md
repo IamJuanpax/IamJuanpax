@@ -2,13 +2,16 @@
 ### Systems engineering student | Full Stack Developer | Multimedia editor
 ![Banner](https://github.com/user-attachments/assets/5d1119d4-1b9b-46a2-b717-3a405318471b)
 
-## About me:
 
-📚 **Systems Engineering student at UTN**
+## 👨‍💻 About Me
 
-🌐 **Full Stack Developer**
+- 🎓 **Education** | Systems Engineering Student at [UTN](https://www.utn.edu.ar/)
+- 🚀 **Main Focus** | Full Stack Development, Data Infrastructure & Analysis
+- 🎬 **Creative Side** | Multimedia Editor & Content Creation
 
-🎬 **Multimedia editor**
+---
+
+
 
 ## Languages ​​Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
