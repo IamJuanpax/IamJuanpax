@@ -1,7 +1,7 @@
 # Hello, my name is Juanpa 👋
 ### Systems Engineering Student | Full Stack Developer | Multimedia Editor
 
-![Banner](https://github.com/user-attachments/assets/5d1119d4-1b9b-46a2-b717-3a405318471b)
+![ganador](https://github.com/user-attachments/assets/c8403235-919a-4f51-b56b-199542ddebb4)
 
 ## 👨‍💻 About Me
 
