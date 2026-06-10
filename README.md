@@ -54,6 +54,12 @@
         <b>E-commerce Campify</b>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/IamJuanpax/PobaPlus_LandingPage">
+        <img src="https://github.com/user-attachments/assets/eeb49880-86e3-49f8-97cc-a7189d2f5067" img width="250" alt="imagen-app" /><br />
+        <b>PobaPlus</b>
+      </a>
+    </td>
   </tr>
 </table>
 
